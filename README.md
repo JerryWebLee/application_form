@@ -4,21 +4,21 @@
 
 ```bash
 application_form
-	|————css								||CSS样式文件夹
+	|————css							 ||CSS样式文件夹
 		|————normalize.css				 	 ||bootStrap格式化样式文档
 		|————rolldate.css				 	 ||rolldate样式文件
 		|————style.css						 ||索引页样式文件
 	|————htmlOldVersion						 ||index.html历史版本备份				 
-	|————iconfont							||图标字体文件
-	|————js								    ||js逻辑代码文件夹
-		|————createPage.js                    ||构建页面逻辑代码
-		|————createRollDate.js     	          ||构建rollDate组件代码
-		|————rolldate.js				     ||rolldate.js日期组件函数
-	|————json								||json数据库
-		|————data.json						||页面数据文档
-	|————.gitignore							||git忽略文件配置
-	|————index.html					         ||索引页面
-	|————README.md					         ||应聘登记表源码源码内容简介
+	|————iconfont							 ||图标字体文件
+	|————js								 ||js逻辑代码文件夹
+		|————createPage.js                    			 ||构建页面逻辑代码
+		|————createRollDate.js     	              		 ||构建rollDate组件代码
+		|————rolldate.js				    	 ||rolldate.js日期组件函数
+	|————json							 ||json数据库
+		|————data.json						 ||页面数据文档
+	|————.gitignore							 ||git忽略文件配置
+	|————index.html					         	 ||索引页面
+	|————README.md					          	 ||应聘登记表源码源码内容简介
 ```
 
 ## 源码说明
