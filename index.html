@@ -62,7 +62,7 @@
                 // 按照文档类型集成json数据并获取，调用文档扩展函数，扩展文档页面
                 $.ajax({
                     type: "get", //使用get方式
-                    url: "../json/data.json", //json文件相对于这个HTML的路径
+                    url: "./json/data.json", //json文件相对于这个HTML的路径
                     dataType: "json",
                     success: function (data) {
                         //这个data就是json数据
